@@ -9,15 +9,15 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://my-aws-assets.s3.us-west-2.amazonaws.com/portfolio-img/avatar_circle.jpeg" alt="Avatar" />
+          <img src="https://github.com/MirandaFarmer/MirandaFarmer.github.io/blob/main/src/assets/images/MeCircle_sm.png" alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
             <a href="https://github.com/mirandafarmer" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/miranda-e-farmer/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Yuji Sato</h1>
-          <p>Full Stack Engineer</p>
+          <h1>Miranda Farmer</h1>
+          <p>Senior Software Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/mirandafarmer" target="_blank" rel="noreferrer"><GitHubIcon/></a>
