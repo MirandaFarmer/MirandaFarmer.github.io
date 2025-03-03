@@ -20,11 +20,12 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Senior Software Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle">AT&T</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Full-stack Web Development, Agile, DevOps, Cloud Computing, Red Hat, Linux, Python, Database Management
             </p>
+            
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -35,7 +36,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Frontend Development, Backend Development
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -47,7 +48,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Agile Development, Jira, Confluence, Red Hat, 
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -56,10 +57,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Specialist - Network Support</h3>
+            <h4 className="vertical-timeline-element-subtitle">AT&T</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Automation, Application Install, Lease Roles
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
