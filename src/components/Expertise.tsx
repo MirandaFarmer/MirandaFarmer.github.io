@@ -1,44 +1,35 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faRedhat, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faJava, faRedhat, faPython } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "React",
-    "TypeScript",
+    "Linux",
     "JavaScript",
     "HTML5",
     "CSS3",
-    "SASS",
-    "Flask",
-    "Python",
     "SQL",
-    "PostgreSQL",
     "Postman"
 ];
 
 const labelsSecond = [
-    "Git",
-    "GitHub Actions",
-    "Docker",
-    "AWS",
-    "Azure",
+    "RHEL",
     "Linux",
-    "Snowflake",
+    "Azure",
+    "Python",
     "Pandas",
-    "Selenium",
+    "SQLalchemy",
 ];
 
 const labelsThird = [
     "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Virtual Machines",
+    "Oracle",
+    "Cost Management",
+    "Backup and Recovery",
+    "Cloud",
 ];
 
 function Expertise() {
@@ -48,9 +39,9 @@ function Expertise() {
             <h1>Expertise</h1>
             <div className="skills-grid">
                 <div className="skill">
-                    <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Senior Software Engineer</h3>
-                    <p>I have built a diverse array of web applications from scratch.</p>
+                    <FontAwesomeIcon icon={faJava} size="3x"/>
+                    <h3>Web Application Development</h3>
+                    <p>.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
