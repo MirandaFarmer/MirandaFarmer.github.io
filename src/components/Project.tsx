@@ -18,13 +18,13 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><h2>Transfer Evaluation Matrix</h2></a>
-                <p>Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.</p>
+                <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><h2>AQA (Application Quick Access)</h2></a>
+                <p><p>This application which does not require installation to run on the Windows OS. It is designed to make finding sites and applications easy while opening certain applications with pre-set parameters.</p></p>
             </div>
             <div className="project">
                 <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
+                <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><h2>AQA (Application Quick Access)</h2></a>
+                <p>This application which does not require installation to run on the Windows OS. It is designed to make finding sites and applications easy while opening certain applications with pre-set parameters.</p>
             </div>
         </div>
     </div>
