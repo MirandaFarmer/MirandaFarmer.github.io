@@ -1,7 +1,7 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faRedhat, faPython } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
@@ -62,7 +62,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faRedhat} size="3x"/>
                     <h3>DevOps & Automation</h3>
-                    <p>Experienced using Red Hat Enterprise Linux to manage Python automation and Oracle Database management.</p>
+                    <p>Experienced using Red Hat Enterprise Linux to manage Python automation and Oracle Database.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
