@@ -61,7 +61,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faRedhat} size="3x"/>
-                    <h3>DevOps & Automation</h3>
+                    <FontAwesomeIcon icon={faPython} size="3x"/>
+                    <h3>Linux VM</h3>
                     <p>Experienced using Red Hat Enterprise Linux to manage Python automation and Oracle Database.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
