@@ -8,9 +8,9 @@ function Main() {
   return (
     <div className="container">
       <div className="about-section">
-        <div className="image-wrapper">
-          <img src="https://github.com/MirandaFarmer/MirandaFarmer.github.io/blob/main/src/assets/images/MeCircle_sm.png" alt="Avatar" />
-        </div>
+        {/*<div className="image-wrapper">
+          <img src="..\src\assets\images\MeCircle_sm.png" alt="Avatar" />
+        </div> */}
         <div className="content">
           <div className="social_icons">
             <a href="https://github.com/mirandafarmer" target="_blank" rel="noreferrer"><GitHubIcon/></a>

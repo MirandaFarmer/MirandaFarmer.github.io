@@ -1,12 +1,12 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faJava, faRedhat, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faSquareJs, faRedhat, faPython } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "Linux",
+    "RHEL(Linux)",
     "JavaScript",
     "HTML5",
     "CSS3",
@@ -15,16 +15,14 @@ const labelsFirst = [
 ];
 
 const labelsSecond = [
-    "RHEL",
-    "Linux",
+    "RHEL(Linux)",
     "Azure",
     "Python",
-    "Pandas",
     "SQLalchemy",
 ];
 
 const labelsThird = [
-    "OpenAI",
+    "Azure",
     "Virtual Machines",
     "Oracle",
     "Cost Management",
@@ -39,7 +37,7 @@ function Expertise() {
             <h1>Expertise</h1>
             <div className="skills-grid">
                 <div className="skill">
-                    <FontAwesomeIcon icon={faJava} size="3x"/>
+                    <FontAwesomeIcon icon={faSquareJs} size="3x"/>
                     <h3>Web Application Development</h3>
                     <p>.</p>
                     <div className="flex-chips">
