@@ -6,12 +6,11 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "RHEL(Linux)",
     "JavaScript",
     "HTML5",
     "CSS3",
-    "SQL",
-    "Postman"
+	"AngularJS",
+    "SQL"
 ];
 
 const labelsSecond = [
@@ -19,6 +18,7 @@ const labelsSecond = [
     "Azure",
     "Python",
     "SQLalchemy",
+	"Oracle"
 ];
 
 const labelsThird = [
@@ -27,7 +27,7 @@ const labelsThird = [
     "Oracle",
     "Cost Management",
     "Backup and Recovery",
-    "Cloud",
+    "Cloud"
 ];
 
 function Expertise() {
@@ -39,7 +39,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faSquareJs} size="3x"/>
                     <h3>Web Application Development</h3>
-                    <p>.</p>
+                    <p>Agile development experience using AngularJS</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -52,7 +52,7 @@ function Expertise() {
                     <FontAwesomeIcon icon={faRedhat} size="3x"/>
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Linux VM</h3>
-                    <p>Experienced using Red Hat Enterprise Linux to manage Python automation and Oracle Database.</p>
+                    <p>Experienced using Red Hat Enterprise Linux to manage Python automation and Oracle Database</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -64,7 +64,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Microsoft Azure Environments</h3>
-                    <p>I have professional experience using Azure to update legacy systems</p>
+                    <p>Professional experience using Azure to update legacy systems</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
