@@ -16,7 +16,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - December, 2024"
+            date="Aug 2022 - Dec 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -29,26 +29,26 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="May 2021 - Aug 2022"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Senior Specialist - Software Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">AT&T</h4>
             <p>
-              Frontend Development, Backend Development
+              Frontend Development, Backend Development, Agile Development
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="Oct 2020 - May 2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Specialist - Network Support</h3>
+            <h3 className="vertical-timeline-element-title">Sr. Specialist Network Support</h3>
             <h4 className="vertical-timeline-element-subtitle">AT&T</h4>
             <p>
-              Automation, Application Install, Lease Roles
+              Automation, Application Installs, Lease Roles, Network Support, Troubleshooting
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

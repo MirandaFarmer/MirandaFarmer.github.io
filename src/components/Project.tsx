@@ -1,5 +1,5 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
+// import mock01 from '../assets/images/mock01.png';
 import mock02 from '../assets/images/mock02.png';
 /* import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
@@ -21,11 +21,11 @@ function Project() {
                 <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><h2>AQA (Application Quick Access)</h2></a>
                 <p><p>This application which does not require installation to run on the Windows OS. It is designed to make finding sites and applications easy while opening certain applications with pre-set parameters.</p></p>
             </div>
-            <div className="project">
+            {/*<div className="project">
                 <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/MirandaFarmer/AQA" target="_blank" rel="noreferrer"><h2>AQA (Application Quick Access)</h2></a>
                 <p>This application which does not require installation to run on the Windows OS. It is designed to make finding sites and applications easy while opening certain applications with pre-set parameters.</p>
-            </div>
+            </div>*/}
         </div>
     </div>
     );
