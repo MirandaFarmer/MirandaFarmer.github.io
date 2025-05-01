@@ -16,7 +16,7 @@ View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
 
 ## Features
 
-✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS) 
+✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
 ✅ Open source (free to use, no attribution required)  
 ✅ Responsive design & mobile-friendly  
 ✅ Supports both dark and light modes  
