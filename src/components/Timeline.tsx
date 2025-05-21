@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Senior Software Engineer</h3>
-            {/*<h4 className="vertical-timeline-element-subtitle">Kansas</h4>*/}
+            {/*<h4 className="vertical-timeline-element-subtitle">Remote or Hybrid</h4>*/}
             <p>
               Full-stack Web Development, Agile, DevOps, Cloud Computing, Red Hat, Linux, Python, Database Management
             </p>
@@ -34,7 +34,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Senior Specialist - Software Engineer</h3>
-            {/*<h4 className="vertical-timeline-element-subtitle">Kansas</h4>*/}
+            {/*<h4 className="vertical-timeline-element-subtitle">Remote or Hybrid</h4>*/}
             <p>
               Frontend Development, Backend Development, Agile Development
             </p>
@@ -46,7 +46,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Sr. Specialist Network Support</h3>
-            {/*<h4 className="vertical-timeline-element-subtitle">Kansas</h4>*/}
+            {/*<h4 className="vertical-timeline-element-subtitle">Remote or Hybrid</h4>*/}
             <p>
               Automation, Application Installs, Lease Roles, Network Support, Troubleshooting
             </p>

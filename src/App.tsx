@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 import {
   Main,
-  Timeline,
+  Timeline, 
   Expertise,
   Project,
   /* Contact, */
