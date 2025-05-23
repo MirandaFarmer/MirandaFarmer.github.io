@@ -7,7 +7,6 @@
 This simple portfolio is built on a templated designed by Yuji Sato. Thank you Yuji!!! 
 I have modified the portfolio files to best showcase my skills in 2025. Thank you for taking a look.
 
-View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
 
 **This template is free to use, and no attribution is required.** 
  - If you want your own copy, please visit Yuji Sato's repository and be sure to give him a star!
