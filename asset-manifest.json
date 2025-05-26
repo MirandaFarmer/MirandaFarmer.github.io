@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MirandaFarmer/MirandaFarmer.github.io/static/css/main.41bab72d.css",
-    "main.js": "/MirandaFarmer/MirandaFarmer.github.io/static/js/main.be51f787.js",
-    "static/js/453.b05d8aa5.chunk.js": "/MirandaFarmer/MirandaFarmer.github.io/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock02.png": "/MirandaFarmer/MirandaFarmer.github.io/static/media/mock02.a936fd660f60a6fe590c.png",
-    "static/media/bg-light.png": "/MirandaFarmer/MirandaFarmer.github.io/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/MirandaFarmer/MirandaFarmer.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
-    "index.html": "/MirandaFarmer/MirandaFarmer.github.io/index.html",
-    "main.41bab72d.css.map": "/MirandaFarmer/MirandaFarmer.github.io/static/css/main.41bab72d.css.map",
-    "main.be51f787.js.map": "/MirandaFarmer/MirandaFarmer.github.io/static/js/main.be51f787.js.map",
-    "453.b05d8aa5.chunk.js.map": "/MirandaFarmer/MirandaFarmer.github.io/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/static/css/main.874c3f1c.css",
+    "main.js": "/static/js/main.fac57eae.js",
+    "static/js/453.9415623e.chunk.js": "/static/js/453.9415623e.chunk.js",
+    "static/media/mock02.png": "/static/media/mock02.a936fd660f60a6fe590c.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/index.html",
+    "main.874c3f1c.css.map": "/static/css/main.874c3f1c.css.map",
+    "main.fac57eae.js.map": "/static/js/main.fac57eae.js.map",
+    "453.9415623e.chunk.js.map": "/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41bab72d.css",
-    "static/js/main.be51f787.js"
+    "static/css/main.874c3f1c.css",
+    "static/js/main.fac57eae.js"
   ]
 }
