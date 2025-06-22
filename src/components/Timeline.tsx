@@ -48,6 +48,18 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Sr. Specialist Network Support</h3>
             {/*<h4 className="vertical-timeline-element-subtitle">Remote or Hybrid</h4>*/}
             <p>
+              Automation, Application Installs, Legacy System Migration, Network Support, Troubleshooting
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="Nov 2015 - Oct 2020"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Specialist Network Support</h3>
+            {/*<h4 className="vertical-timeline-element-subtitle">Remote or Hybrid</h4>*/}
+            <p>
               Automation, Application Installs, Legacy System Upgrades, Lease Roles, Network Support, Troubleshooting
             </p>
           </VerticalTimelineElement>
